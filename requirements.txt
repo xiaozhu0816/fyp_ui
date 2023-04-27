@@ -1,0 +1,6 @@
+streamlit
+streamlit_cropper
+Pillow
+torchvision
+torch
+numpy
